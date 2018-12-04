@@ -1,6 +1,8 @@
 # Guide Book to HumHub
-WIP
-### Index
+
+### Modules Index
+> TBA
+### Themes Index
 > TBA
 
 ### Contributions
