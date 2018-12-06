@@ -2,6 +2,6 @@
 
 ### Configurations
 
-#### Common Setup
+#### [Common Setup](/chapters/chapter%201/common/README.md)
 
-#### Cron Jobs Setup
+#### [Cron Jobs Setup](/chapters/chapter%201/cronjob/README.md)
