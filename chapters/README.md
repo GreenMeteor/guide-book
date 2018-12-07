@@ -8,3 +8,6 @@ Marketplace Modules & 3rd party module how to.
 
 ### [Chapter 3](/chapters/chapter%203/README.md)
 Theming & Demo Theme
+
+### [Chapter 4](/chapters/chapter%204/README.md)
+HumHub environments (Server types)
